@@ -1,0 +1,23 @@
+{
+	"name": "template-tailwindcss-food_ninja",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build-css": "npx tailwindcss -i ./src/styles.css -o ./public/styles.css"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sp-square/template-tailwindcss-Food_Ninja.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/sp-square/template-tailwindcss-Food_Ninja/issues"
+	},
+	"homepage": "https://github.com/sp-square/template-tailwindcss-Food_Ninja#readme",
+	"dependencies": {
+		"tailwindcss": "^3.0.17"
+	}
+}
